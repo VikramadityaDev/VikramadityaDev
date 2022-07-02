@@ -14,6 +14,8 @@
 
 - 📫 How to reach me **Vikramadityapratap35@gmail.com**
 
+- ⚡ Fun fact **I spend almost 12 hours listening songs everyday.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vikramaditya58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikramaditya58" height="30" width="40" /></a>

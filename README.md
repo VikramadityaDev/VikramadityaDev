@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramadityadev&label=Profile%20views&color=0e75b6&style=flat" alt="vikramadityadev" /> </p>
 
-- 🔭 I’m currently working on **College Management System Project**
+- 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **Flutter , Dart**
+- 💬 Ask me about **Flutter | Dart**
 
 - 📫 How to reach me **Vikramadityapratap35@gmail.com**
 

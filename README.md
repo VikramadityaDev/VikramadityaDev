@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **New Language**
 
 - 💬 Ask me about **Flutter | Dart**
 
 - 📫 How to reach me **Vikramadityapratap35@gmail.com**
-
-- ⚡ Fun fact **I spend almost 12 hours listening songs everyday.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

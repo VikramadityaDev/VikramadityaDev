@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter | Dart**
 
-<!-- - 📫 How to reach me **Vikramadityapratap35@gmail.com** -->
+- 📫 How to reach me **Telegram: @Aditya1190**
 
 <h3 align="left">Connect with me:</h3>
 

@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramadityadev&label=Profile%20views&color=0e75b6&style=flat" alt="vikramadityadev" /> </p>
 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=vikramadityadev&style=for-the-badge&color=blueviolet" alt="vikramadityadev" /> </p>
+
 - 🔭 I’m currently working on **Flutter**
 - 🌱 I’m currently learning **Android**
 - 💬 Ask me about **Flutter | Dart**

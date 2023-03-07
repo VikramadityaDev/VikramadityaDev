@@ -19,8 +19,8 @@
 
 <div>
   <a href="https://github.com/VikramadityaDev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VikramadityaDev&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramadityaDev&layout=compact&theme=midnight-purple&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VikramadityaDev&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&locale=us-en"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramadityaDev&layout=compact&theme=midnight-purple&locale=us-en"/>
   </a>
 </div>
 

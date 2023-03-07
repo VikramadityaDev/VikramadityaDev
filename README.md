@@ -24,10 +24,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramadityaDev&layout=compact&theme=midnight-purple&locale=en"/>
   </a>
 </div>
-
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikramadityaDev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramadityaDev&theme=tokyonight) -->
-
 ##
 
 ![Snake animation](https://github.com/VikramadityaDev/VikramadityaDev/blob/output/github-contribution-grid-snake.svg)

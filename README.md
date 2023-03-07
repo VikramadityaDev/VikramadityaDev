@@ -24,5 +24,5 @@
   </a>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikramadityaDev&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramadityaDev&theme=tokyonight)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikramadityaDev&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramadityaDev&theme=tokyonight) -->

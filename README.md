@@ -1,7 +1,7 @@
 <!-- [![MasterHead](<img src="https://cdn.jsdelivr.net/gh/xiaomu-source/xiaomu-source/assets/images/icon.png" />)](https://github.com/VikramadityaDev) -->
 [![icon](https://github.com/VikramadityaDev/VikramadityaDev/assets/63139007/38aa000d-85c6-43be-a1ae-4348c56741e2)](https://github.com/VikramadityaDev)
 
-<h1 align="center">Hi, my name is Vikramaditya <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> </h1>
+<h1 align="center">Hi, my name is vikramaditya <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> </h1>
 <h3 align="center">I'm a passionate mobile app engineer with a love for coding and a special affinity for Flutter My journey in the world of FLutter development brims with excitement, fueled by curiosity and an unwavering pursuit of creating efficient and elegant solutions.</h3>
 <h4 align="center">👨‍💻 Mobile App Engineer | 🚀 Flutter Developer | 💻 Android Enthusiast | 🌐 Open Source Contributor</h4>
 <br>
@@ -36,7 +36,7 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikramadityaDev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramadityaDev&theme=tokyonight) -->
 
-##
+## Snake eating my github contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />

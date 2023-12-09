@@ -37,3 +37,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramadityaDev&theme=tokyonight) -->
 
 ##
+
+![snake gif](https://github.com/VikramadityaDev/VikramadityaDev/blob/output/github-contribution-grid-snake.svg)

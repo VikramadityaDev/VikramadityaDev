@@ -12,11 +12,12 @@ I'm a passionate mobile app engineer with a love for coding and a special affini
 <br>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=vikramadityadev&style=for-the-badge&color=blueviolet" alt="vikramadityadev" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
-- 🌱 I’m currently learning **Android**
-- 💬 Ask me about **Flutter | Dart**
-- ⚡ Fact: **Eternal technology lover!**
-- 📫 How to reach me **Telegram: @Aditya1190**
+- 🔭 I’m currently working on flutter ~
+<!-- - 🌱 I’m currently learning **Android** -->
+- 👨‍💻 I'm passionate about coding and have been developing my skill ~
+- 💬 Ask me about Flutter & Dart ~
+- ⚡ Fact: Eternal technology lover ~
+- 📫 My email address `VikramadityaDev@proton.me` & my telegram username `@Aditya1190` ~
 
 <br>
 
@@ -27,13 +28,23 @@ I'm a passionate mobile app engineer with a love for coding and a special affini
 
 
 ##
-
-<div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <div><b><em><spam>Statistics</spam></em></b></div>
+      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
+    </td>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=VikramadityaDev&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
+    </td>
+  </tr>
+</table>
+<!-- <div>
   <a href="https://github.com/VikramadityaDev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VikramadityaDev&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&locale=en"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VikramadityaDev&layout=compact&theme=midnight-purple&locale=en"/>
   </a>
-</div>
+</div> -->
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikramadityaDev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramadityaDev&theme=tokyonight) -->
 

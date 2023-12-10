@@ -12,8 +12,7 @@ I'm a passionate mobile app engineer with a love for coding and a special affini
 <br>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=vikramadityadev&style=for-the-badge&color=blueviolet" alt="vikramadityadev" /> </p>
 
-- 🔭 I’m currently working on flutter ~
-<!-- - 🌱 I’m currently learning **Android** -->
+- 🔭 I’m currently working on flutter ~ <!-- - 🌱 I’m currently learning **Android** -->
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 💬 Ask me about Flutter & Dart ~
 - ⚡ Fact: Eternal technology lover ~

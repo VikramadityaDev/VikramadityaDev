@@ -1,14 +1,14 @@
 <!-- [![MasterHead](<img src="https://cdn.jsdelivr.net/gh/xiaomu-source/xiaomu-source/assets/images/icon.png" />)](https://github.com/VikramadityaDev) -->
 [![icon](https://github.com/VikramadityaDev/VikramadityaDev/assets/63139007/38aa000d-85c6-43be-a1ae-4348c56741e2)](https://github.com/VikramadityaDev)
 
-<h1 align="center">Hi, my name is vikramaditya <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/> </h1>
-<h3 align="center">I'm a passionate mobile app engineer with a love for coding and a special affinity for Flutter My journey in the world of FLutter development brims with excitement, fueled by curiosity and an unwavering pursuit of creating efficient and elegant solutions.</h3>
-<h4 align="center">👨‍💻 Mobile App Engineer | 🚀 Flutter Developer | 💻 Android Enthusiast | 🌐 Open Source Contributor</h4>
-<br>
+# Hi, my name is vikramaditya <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
+I'm a passionate mobile app engineer with a love for coding and a special affinity for Flutter My journey in the world of FLutter development brims with excitement, fueled by curiosity and an unwavering pursuit of creating efficient and elegant solutions.
+
+👨‍💻 Mobile App Engineer | 🚀 Flutter Developer | 💻 Android Enthusiast | 🌐 Open Source Contributor
+<br><br>
 <img align="right" alt="coding" width="320" src="https://github.com/VikramadityaDev/VikramadityaDev/assets/63139007/80d87131-7169-471a-9772-b2e05eb026d5" />
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramadityadev&label=Profile%20views&color=0e75b6&style=flat" alt="vikramadityadev" /> </p> -->
-<br>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=vikramadityadev&style=for-the-badge&color=blueviolet" alt="vikramadityadev" /> </p>
 
 - 🔭 I’m currently working on **Flutter**
@@ -36,7 +36,7 @@
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikramadityaDev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramadityaDev&theme=tokyonight) -->
 
-## Snake eating my github contributions
+## 🐍 Snake eating my github contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />

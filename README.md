@@ -16,7 +16,8 @@ I'm a passionate mobile app engineer with a love for coding and a special affini
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 💬 Ask me about Flutter & Dart ~
 - ⚡ Fact: Eternal technology lover ~
-- 📫 My email address `VikramadityaDev@proton.me` & my telegram username `@Aditya1190` ~
+- 📫 My email address `VikramadityaDev@proton.me` Welcome to contact me 👏🏻 ~
+- 📫 My telegram username `@Aditya1190` Welcome to contact me 👏🏻 ~
 
 <br>
 

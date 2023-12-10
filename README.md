@@ -5,12 +5,12 @@
 I'm a passionate mobile app engineer with a love for coding and a special affinity for Flutter My journey in the world of FLutter development brims with excitement, fueled by curiosity and an unwavering pursuit of creating efficient and elegant solutions.
 
 👨‍💻 Mobile App Engineer | 🚀 Flutter Developer | 💻 Android Enthusiast | 🌐 Open Source Contributor
-<br><br>
-<img align="right" alt="coding" width="320" src="https://github.com/VikramadityaDev/VikramadityaDev/assets/63139007/80d87131-7169-471a-9772-b2e05eb026d5" />
+<br>
+<!-- <img align="right" alt="coding" width="320" src="https://github.com/VikramadityaDev/VikramadityaDev/assets/63139007/80d87131-7169-471a-9772-b2e05eb026d5" /> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramadityadev&label=Profile%20views&color=0e75b6&style=flat" alt="vikramadityadev" /> </p> -->
 <br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=vikramadityadev&style=for-the-badge&color=blueviolet" alt="vikramadityadev" /> </p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=vikramadityadev&style=for-the-badge&color=blueviolet" alt="vikramadityadev" /> </p>
 
 - 🔭 I’m currently working on **Flutter**
 - 🌱 I’m currently learning **Android**

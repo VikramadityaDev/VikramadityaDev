@@ -48,7 +48,7 @@ I'm a passionate mobile app engineer with a love for coding and a special affini
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikramadityaDev&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VikramadityaDev&theme=tokyonight) -->
 
-## 🐍 Snake eating my github contributions
+## 🐍 My Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
